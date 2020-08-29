@@ -1,0 +1,9 @@
+
+
+{
+ "UserID":"edp",
+ "Pwd":"edp",
+ "DB":"ERPV2",
+ "Location":"192.168.0.107",
+
+}

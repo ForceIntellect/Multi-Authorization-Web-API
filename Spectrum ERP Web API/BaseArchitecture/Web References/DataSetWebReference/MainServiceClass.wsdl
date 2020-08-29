@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="GetCompany">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="DataSource" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Database" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="User" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="Password" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="fieldArray" type="tns:ArrayOfArrayOfAnyType" />
+            <s:element minOccurs="0" maxOccurs="1" name="procName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfArrayOfAnyType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="ArrayOfAnyType" nillable="true" type="tns:ArrayOfAnyType" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfAnyType">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="anyType" nillable="true" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetCompanyResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetCompanyResult">
+              <s:complexType>
+                <s:sequence>
+                  <s:element ref="s:schema" />
+                  <s:any />
+                </s:sequence>
+              </s:complexType>
+            </s:element>
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="GetCompanySoapIn">
+    <wsdl:part name="parameters" element="tns:GetCompany" />
+  </wsdl:message>
+  <wsdl:message name="GetCompanySoapOut">
+    <wsdl:part name="parameters" element="tns:GetCompanyResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MainServiceClassSoap">
+    <wsdl:operation name="GetCompany">
+      <wsdl:input message="tns:GetCompanySoapIn" />
+      <wsdl:output message="tns:GetCompanySoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="MainServiceClassSoap" type="tns:MainServiceClassSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetCompany">
+      <soap:operation soapAction="http://tempuri.org/GetCompany" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="MainServiceClassSoap12" type="tns:MainServiceClassSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetCompany">
+      <soap12:operation soapAction="http://tempuri.org/GetCompany" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MainServiceClass">
+    <wsdl:port name="MainServiceClassSoap" binding="tns:MainServiceClassSoap">
+      <soap:address location="http://59.145.221.65/GetDataSet/MainServiceClass.asmx" />
+    </wsdl:port>
+    <wsdl:port name="MainServiceClassSoap12" binding="tns:MainServiceClassSoap12">
+      <soap12:address location="http://59.145.221.65/GetDataSet/MainServiceClass.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

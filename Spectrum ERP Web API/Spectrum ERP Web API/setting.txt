@@ -1,0 +1,9 @@
+
+
+{
+ "UserID":"sa",
+ "Pwd":"fipl123*",
+ "DB":"ERPV2",
+ "Location":".",
+
+}

@@ -1,0 +1,39 @@
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\csc.exe
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\vbc.exe
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\Spectrum ERP Web API.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Web.Http.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Web.Http.Cors.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\BusinessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\Newtonsoft.Json.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Web.Cors.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\DataAccessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\MiddleLayerArchitecture.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\Spectrum ERP Web API.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Web.Http.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Web.Http.Cors.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\BusinessLayer.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Web.Http.WebHost.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\Newtonsoft.Json.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\DataAccessLayer.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\bin\Debug\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache

@@ -1,0 +1,89 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spectrum ERP Web API", "Spectrum ERP Web API\Spectrum ERP Web API.csproj", "{75007DF2-5225-44A7-B387-23E447465AF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseArchitecture", "BaseArchitecture\BaseArchitecture.csproj", "{AD2B3F30-7987-4F44-8F58-DC5156651691}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer\DataAccessLayer.csproj", "{BA8D444F-946C-4ED8-ABB5-8716589DA564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer\BusinessLayer.csproj", "{CAA04D05-89B3-45B8-8203-F2981D8A8188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Debug|x86.Build.0 = Debug|Any CPU
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Release|x86.ActiveCfg = Release|Any CPU
+		{75007DF2-5225-44A7-B387-23E447465AF5}.Release|x86.Build.0 = Release|Any CPU
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Debug|x86.ActiveCfg = Debug|x86
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Debug|x86.Build.0 = Debug|x86
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Release|x86.ActiveCfg = Release|x86
+		{AD2B3F30-7987-4F44-8F58-DC5156651691}.Release|x86.Build.0 = Release|x86
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Debug|x86.Build.0 = Debug|Any CPU
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Release|x86.ActiveCfg = Release|Any CPU
+		{BA8D444F-946C-4ED8-ABB5-8716589DA564}.Release|x86.Build.0 = Release|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Debug|x86.Build.0 = Debug|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Release|x86.ActiveCfg = Release|Any CPU
+		{CAA04D05-89B3-45B8-8203-F2981D8A8188}.Release|x86.Build.0 = Release|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Debug|x86.Build.0 = Debug|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Release|x86.ActiveCfg = Release|Any CPU
+		{864573A6-D7D5-4386-9BC3-8DE9D40F2B64}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://windows-n5nipm9:9640/fipl%20collection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BaseArchitecture\\BaseArchitecture.csproj
+		SccProjectName1 = BaseArchitecture
+		SccLocalPath1 = BaseArchitecture
+		SccProjectUniqueName2 = BusinessLayer\\BusinessLayer\\BusinessLayer.csproj
+		SccProjectName2 = BusinessLayer/BusinessLayer
+		SccLocalPath2 = BusinessLayer\\BusinessLayer
+		SccProjectUniqueName3 = DataAccessLayer\\DataAccessLayer\\DataAccessLayer.csproj
+		SccProjectName3 = DataAccessLayer/DataAccessLayer
+		SccLocalPath3 = DataAccessLayer\\DataAccessLayer
+		SccProjectUniqueName4 = Spectrum\u0020ERP\u0020Web\u0020API\\Spectrum\u0020ERP\u0020Web\u0020API.csproj
+		SccProjectName4 = Spectrum\u0020ERP\u0020Web\u0020API
+		SccLocalPath4 = Spectrum\u0020ERP\u0020Web\u0020API
+		SccProjectUniqueName5 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectName5 = UnitTestProject1
+		SccLocalPath5 = UnitTestProject1
+	EndGlobalSection
+EndGlobal

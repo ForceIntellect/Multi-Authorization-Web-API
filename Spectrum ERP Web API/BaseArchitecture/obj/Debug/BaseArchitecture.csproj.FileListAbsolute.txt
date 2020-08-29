@@ -1,0 +1,15 @@
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll.config
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BaseArchitecture\obj\Debug\MiddleLayerArchitecture.Properties.Resources.resources
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BaseArchitecture\obj\Debug\BaseArchitecture.csproj.GenerateResource.Cache
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BaseArchitecture\obj\Debug\MiddleLayerArchitecture.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BaseArchitecture\obj\Debug\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll.config
+C:\Project\SC Order API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll
+C:\Project\SC Order API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Debug\MiddleLayerArchitecture.Properties.Resources.resources
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Debug\BaseArchitecture.csproj.GenerateResource.Cache
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Debug\MiddleLayerArchitecture.dll
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Debug\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Debug\BaseArchitecture.csprojResolveAssemblyReference.cache

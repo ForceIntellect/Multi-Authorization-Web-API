@@ -1,0 +1,76 @@
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\csc.exe
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\vbc.exe
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\VBCSCompiler.exe
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.dll.config
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\BusinessLayer.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\DataAccessLayer.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Newtonsoft.Json.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Net.Http.Formatting.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Cors.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.Cors.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.WebHost.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\BusinessLayer.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\DataAccessLayer.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Newtonsoft.Json.xml
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Net.Http.Formatting.xml
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.xml
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.Cors.xml
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.WebHost.xml
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.dll
+C:\Project\SC Order API\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\csc.exe
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\System.Collections.Immutable.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\vbc.exe
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\VBCSCompiler.exe
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\VBCSCompiler.exe.config
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.dll.config
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\BusinessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\DataAccessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\Newtonsoft.Json.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Net.Http.Formatting.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Cors.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.Cors.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.WebHost.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\BusinessLayer.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\DataAccessLayer.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\Newtonsoft.Json.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Net.Http.Formatting.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.Cors.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.WebHost.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.pdb

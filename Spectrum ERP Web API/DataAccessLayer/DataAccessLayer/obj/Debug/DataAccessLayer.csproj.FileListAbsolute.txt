@@ -1,0 +1,20 @@
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\MiddleLayerArchitecture.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\MiddleLayerArchitecture.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Debug\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,20 @@
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Project\SC Order API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\Newtonsoft.Json.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\Newtonsoft.Json.xml
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.pdb

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Admin\MVC Build Projects\SC Order API</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/BusinessLayer.dll">
+      <publishTime>04/03/2020 17:02:00</publishTime>
+    </File>
+    <File Include="bin/DataAccessLayer.dll">
+      <publishTime>04/03/2020 17:02:00</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>07/12/2019 17:16:12</publishTime>
+    </File>
+    <File Include="bin/MiddleLayerArchitecture.dll">
+      <publishTime>04/03/2020 17:01:48</publishTime>
+    </File>
+    <File Include="bin/MiddleLayerArchitecture.XmlSerializers.dll">
+      <publishTime>04/02/2020 23:08:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>07/12/2019 17:16:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>07/12/2019 17:16:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>07/12/2019 17:16:11</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>07/12/2019 17:16:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>07/12/2019 17:16:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>07/12/2019 17:16:14</publishTime>
+    </File>
+    <File Include="bin/Spectrum ERP Web API.dll">
+      <publishTime>04/03/2020 17:02:00</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>07/12/2019 17:16:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>07/12/2019 17:16:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>07/12/2019 17:16:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>07/12/2019 17:16:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>07/12/2019 17:16:11</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>07/12/2019 17:15:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>07/12/2019 17:15:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/03/2020 16:47:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

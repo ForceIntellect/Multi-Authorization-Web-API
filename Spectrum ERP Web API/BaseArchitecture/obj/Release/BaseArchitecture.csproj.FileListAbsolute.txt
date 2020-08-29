@@ -1,0 +1,10 @@
+C:\Project\SC Order API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll.config
+C:\Project\SC Order API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll
+C:\Project\SC Order API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.XmlSerializers.dll
+C:\Project\SC Order API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\BaseArchitecture.csprojResolveAssemblyReference.cache
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.Properties.Resources.resources
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\BaseArchitecture.csproj.GenerateResource.Cache
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.dll
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.pdb
+C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.XmlSerializers.dll
