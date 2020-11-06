@@ -18,3 +18,15 @@ C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccess
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csprojResolveAssemblyReference.cache
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.dll
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\Newtonsoft.Json.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.dll.config
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\Newtonsoft.Json.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\bin\Release\MiddleLayerArchitecture.XmlSerializers.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csprojAssemblyReference.cache
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CopyComplete
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\DataAccessLayer\DataAccessLayer\obj\Release\DataAccessLayer.pdb

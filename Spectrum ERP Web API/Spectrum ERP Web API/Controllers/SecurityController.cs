@@ -21,6 +21,7 @@ namespace Spectrum_ERP_Web_API.Controllers
         
             SecurityBLL SecurityBLL;
 
+          
             public SecurityController()
             {
               SecurityBLL = new SecurityBLL();  

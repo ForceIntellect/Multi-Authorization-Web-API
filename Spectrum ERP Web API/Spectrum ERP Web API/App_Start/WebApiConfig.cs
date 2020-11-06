@@ -16,8 +16,8 @@ namespace Spectrum_ERP_Web_API
 
             config.MessageHandlers.Add(new MsgHandler());
             config.Services.Replace(typeof(IExceptionHandler), new GlobalErrorHandler());
-            var cors = new EnableCorsAttribute("*", "*", "*");
-            config.EnableCors(cors);
+            //var cors = new EnableCorsAttribute("*", "*", "*");
+            //config.EnableCors(cors);
           //  config.Filters.Add(new ErrorFilter());
           
 

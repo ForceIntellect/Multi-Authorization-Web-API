@@ -74,3 +74,61 @@ C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum E
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.csprojResolveAssemblyReference.cache
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.dll
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\csc.exe
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\System.Collections.Immutable.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\System.Reflection.Metadata.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\vbc.exe
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\VBCSCompiler.exe
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\roslyn\VBCSCompiler.exe.config
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.dll.config
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Spectrum ERP Web API.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Antlr3.Runtime.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\BusinessLayer.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\DataAccessLayer.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Microsoft.Web.Infrastructure.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Newtonsoft.Json.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Net.Http.Formatting.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Cors.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Helpers.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.Cors.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.WebHost.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Mvc.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Optimization.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Razor.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.WebPages.Deployment.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.WebPages.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.WebPages.Razor.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\WebGrease.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.dll.config
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\BusinessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\DataAccessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Antlr3.Runtime.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\Newtonsoft.Json.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Net.Http.Formatting.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Helpers.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.Cors.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Mvc.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Optimization.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Razor.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.WebPages.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.WebPages.Deployment.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.WebPages.Razor.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\System.Web.Http.WebHost.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\bin\MiddleLayerArchitecture.XmlSerializers.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.csprojAssemblyReference.cache
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.csproj.CopyComplete
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\Spectrum ERP Web API\obj\Release\Spectrum ERP Web API.pdb

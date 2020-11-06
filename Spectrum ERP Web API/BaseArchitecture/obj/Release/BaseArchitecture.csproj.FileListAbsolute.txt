@@ -8,3 +8,14 @@ C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\BaseAr
 C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.dll
 C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.pdb
 C:\Project\SC Order API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.XmlSerializers.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll.config
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.XmlSerializers.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\EXE\MiddleLayerArchitecture.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BaseArchitecture\obj\Release\BaseArchitecture.csprojAssemblyReference.cache
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.Properties.Resources.resources
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BaseArchitecture\obj\Release\BaseArchitecture.csproj.GenerateResource.cache
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BaseArchitecture\obj\Release\BaseArchitecture.csproj.CopyComplete
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BaseArchitecture\obj\Release\MiddleLayerArchitecture.XmlSerializers.dll

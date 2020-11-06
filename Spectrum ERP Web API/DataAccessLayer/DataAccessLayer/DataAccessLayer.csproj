@@ -45,14 +45,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sales\DAO\DAODashboard.cs" />
     <Compile Include="Sales\DAO\DAOPMPO.cs" />
     <Compile Include="Sales\DAO\DAOSCSO.cs" />
     <Compile Include="Sales\DAO\DAOSecurity.cs" />
     <Compile Include="Sales\DAO\DAOTANR.cs" />
+    <Compile Include="Sales\DA\DADashboard.cs" />
     <Compile Include="Sales\DA\DAPMPO.cs" />
     <Compile Include="Sales\DA\DASCSO.cs" />
     <Compile Include="Sales\DA\DASecurity.cs" />
     <Compile Include="Sales\DA\DATANR.cs" />
+    <Compile Include="Sales\DT\DTDashboard.cs" />
     <Compile Include="Sales\DT\DTPMPO.cs" />
     <Compile Include="Sales\DT\DTSCSO.cs" />
     <Compile Include="Sales\DT\DTSecurity.cs" />

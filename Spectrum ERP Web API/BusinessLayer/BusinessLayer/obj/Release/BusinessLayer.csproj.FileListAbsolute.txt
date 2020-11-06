@@ -22,3 +22,17 @@ C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BusinessLa
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.dll
 C:\Project\SC Order API (backUp 18-10-2019) Edit\Spectrum ERP Web API\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\BusinessLayer.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\BusinessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\DataAccessLayer.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\MiddleLayerArchitecture.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\MiddleLayerArchitecture.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\MiddleLayerArchitecture.dll.config
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\DataAccessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\Newtonsoft.Json.xml
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\MiddleLayerArchitecture.XmlSerializers.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.csprojAssemblyReference.cache
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.csproj.CopyComplete
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.dll
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\obj\Release\BusinessLayer.pdb
+D:\OfficeTask\Multi-Authorization Web API\Spectrum ERP Web API\BusinessLayer\BusinessLayer\bin\Release\Newtonsoft.Json.dll

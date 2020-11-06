@@ -6,23 +6,44 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Users\Admin\MVC Build Projects\SC Order API</_PublishTargetUrl>
+    <_PublishTargetUrl>D:\OfficeTask\Multi-Authorization Web API\ToPublishApi</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/22/2013 08:43:40</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>02/22/2013 08:43:40</publishTime>
+    </File>
     <File Include="bin/BusinessLayer.dll">
-      <publishTime>04/03/2020 17:02:00</publishTime>
+      <publishTime>11/06/2020 18:00:51</publishTime>
+    </File>
+    <File Include="bin/BusinessLayer.pdb">
+      <publishTime>11/06/2020 18:00:51</publishTime>
     </File>
     <File Include="bin/DataAccessLayer.dll">
-      <publishTime>04/03/2020 17:02:00</publishTime>
+      <publishTime>11/06/2020 18:00:32</publishTime>
+    </File>
+    <File Include="bin/DataAccessLayer.pdb">
+      <publishTime>11/06/2020 18:00:32</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>07/12/2019 17:16:12</publishTime>
     </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
     <File Include="bin/MiddleLayerArchitecture.dll">
-      <publishTime>04/03/2020 17:01:48</publishTime>
+      <publishTime>11/06/2020 18:00:32</publishTime>
+    </File>
+    <File Include="bin/MiddleLayerArchitecture.dll.config">
+      <publishTime>07/12/2019 17:15:32</publishTime>
+    </File>
+    <File Include="bin/MiddleLayerArchitecture.pdb">
+      <publishTime>11/06/2020 18:00:32</publishTime>
     </File>
     <File Include="bin/MiddleLayerArchitecture.XmlSerializers.dll">
-      <publishTime>04/02/2020 23:08:22</publishTime>
+      <publishTime>10/16/2020 19:49:20</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>07/12/2019 17:16:13</publishTime>
@@ -64,13 +85,19 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/12/2019 17:16:14</publishTime>
     </File>
     <File Include="bin/Spectrum ERP Web API.dll">
-      <publishTime>04/03/2020 17:02:00</publishTime>
+      <publishTime>11/06/2020 18:00:54</publishTime>
+    </File>
+    <File Include="bin/Spectrum ERP Web API.pdb">
+      <publishTime>11/06/2020 18:00:54</publishTime>
     </File>
     <File Include="bin/System.Net.Http.Formatting.dll">
       <publishTime>07/12/2019 17:16:10</publishTime>
     </File>
     <File Include="bin/System.Web.Cors.dll">
       <publishTime>07/12/2019 17:16:09</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
     </File>
     <File Include="bin/System.Web.Http.Cors.dll">
       <publishTime>07/12/2019 17:16:11</publishTime>
@@ -81,14 +108,104 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/System.Web.Http.WebHost.dll">
       <publishTime>07/12/2019 17:16:11</publishTime>
     </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>01/28/2015 04:02:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/11/2014 15:26:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>01/28/2015 04:02:32</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>01/28/2015 04:04:30</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>07/17/2013 17:03:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.css">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap-theme.min.css">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>10/08/2020 11:33:26</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
     <File Include="Global.asax">
       <publishTime>07/12/2019 17:15:32</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>07/12/2019 17:15:32</publishTime>
+      <publishTime>10/08/2020 11:34:44</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>10/08/2020 11:33:40</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>10/08/2020 11:33:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>10/08/2020 11:33:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>10/08/2020 11:33:46</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>10/08/2020 11:33:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>10/08/2020 11:33:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>10/08/2020 11:33:59</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>10/08/2020 11:33:59</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>10/08/2020 11:34:30</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>10/08/2020 11:33:05</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>10/08/2020 11:33:23</publishTime>
+    </File>
+    <File Include="Views/web.config">
+      <publishTime>10/08/2020 11:33:27</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>10/08/2020 11:33:19</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/03/2020 16:47:13</publishTime>
+      <publishTime>11/06/2020 18:00:54</publishTime>
     </File>
   </ItemGroup>
 </Project>

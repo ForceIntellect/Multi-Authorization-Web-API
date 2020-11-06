@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\Dashboard\DashboardBLL.cs" />
     <Compile Include="BLL\ExtensionMethods.cs" />
     <Compile Include="BLL\HttpResponse\CustomResponseHandler.cs" />
     <Compile Include="BLL\PMPO\PMPOBLL.cs" />
